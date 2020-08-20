@@ -1,0 +1,17 @@
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\BLL.dll
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\BLL.pdb
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\BLL.xml
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\DAL.dll
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\LayerEntity.dll
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\DAL.pdb
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\DAL.xml
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\LayerEntity.pdb
+C:\Users\bart_\source\repos\CRUD\BLL\bin\Debug\LayerEntity.xml
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.dll
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.xml
+C:\Users\bart_\source\repos\CRUD\BLL\obj\Debug\BLL.pdb

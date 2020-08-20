@@ -1,0 +1,14 @@
+C:\Users\bart_\source\repos\CRUD\DAL\bin\Debug\DAL.dll
+C:\Users\bart_\source\repos\CRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\bart_\source\repos\CRUD\DAL\bin\Debug\DAL.xml
+C:\Users\bart_\source\repos\CRUD\DAL\bin\Debug\LayerEntity.dll
+C:\Users\bart_\source\repos\CRUD\DAL\bin\Debug\LayerEntity.pdb
+C:\Users\bart_\source\repos\CRUD\DAL\bin\Debug\LayerEntity.xml
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.dll
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.xml
+C:\Users\bart_\source\repos\CRUD\DAL\obj\Debug\DAL.pdb
